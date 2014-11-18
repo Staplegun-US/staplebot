@@ -1,1 +1,1 @@
-web: bin/hubot -a slack -n Staplebot
+web: bin/hubot -a slack -n slackbot
