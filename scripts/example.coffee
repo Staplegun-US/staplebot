@@ -10,13 +10,13 @@
 
 module.exports = (robot) ->
 
-  robot.hear /badger/i, (msg) ->
+  robot.respond /badger/i, (msg) ->
     msg.send "Badgers? BADGERS? WE DON'T NEED NO STINKIN BADGERS"
 
   robot.respond /hello$/i, (msg) ->
     robot.messageRoom '#general', 'hello there'
   
-  robot.hear /drones/i, (msg) ->
+  robot.respond /drones/i, (msg) ->
     msg.send "http://vimeo.com/111674466"
   #
   # robot.respond /open the (.*) doors/i, (msg) ->
