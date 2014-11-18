@@ -15,6 +15,9 @@ module.exports = (robot) ->
 
   robot.respond /hello$/i, (msg) ->
     robot.messageRoom '#general', 'hello there'
+  
+  robot.hear /drones/i, (msg) ->
+    msg.send "http://vimeo.com/111674466"
   #
   # robot.respond /open the (.*) doors/i, (msg) ->
   #   doorType = msg.match[1]
