@@ -15,7 +15,8 @@ bronies = [
   "http://rich.io/image/2a0h373X2t3I/BronyMegaPosterFull.jpg",
   "http://rich.io/image/3Q3X0t2W081R/hipster_brony_zemratsu_by_aemi-d546gr5.png",
   "http://rich.io/image/0G3R2k0a3f0n/keep_calm_and_brony_on_by_usmarkinator-d509fnk.png",
-  "http://rich.io/image/1l3m013O0X20/f23cb5cd093b94b6d5637a0b5466df78326e1414bea2e4ae2d6c606c530fe5cb.jpg"
+  "http://rich.io/image/1l3m013O0X20/f23cb5cd093b94b6d5637a0b5466df78326e1414bea2e4ae2d6c606c530fe5cb.jpg",
+  "https://41.media.tumblr.com/4d64a1691c3527bdb1eae98fbcc720a7/tumblr_mll8f4Vbw11sohgk4o1_500.jpg"
 ]
 
 module.exports = (robot) ->
