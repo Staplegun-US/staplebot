@@ -9,6 +9,7 @@
     "hubot": "~2.9.3",
     "hubot-ambush": "0.0.2",
     "hubot-business-cat": "^1.4.1",
+    "hubot-darksky": "^1.0.2",
     "hubot-diagnostics": "0.0.1",
     "hubot-google-images": "~0.1.0",
     "hubot-google-translate": "~0.1.0",
